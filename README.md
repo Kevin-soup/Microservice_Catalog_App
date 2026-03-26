@@ -67,12 +67,11 @@ x-admin-token: authorized_admin
 
 1) Install & run each service
    npm install
-   npm run dev     # or: npm start
+   check package.json for start scripts
 
 2) Run the UI
    npm install
    npm run dev
-   # open the printed local URL
 
 ---
 
