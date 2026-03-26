@@ -15,7 +15,7 @@ Setup & Run
    npm install
 
 2. Start the service:
-   npm run dev  
+   node catalog_controller.mjs
 
 Note: Environment variables are already provided via .env.
 
