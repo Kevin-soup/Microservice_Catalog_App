@@ -13,8 +13,9 @@ Used for
 ---
 
 Setup & Run
-   Install dependencies: npm install
-   Start the service: node image_controller.mjs
+Install dependencies: npm install
+
+Start the service: node image_controller.mjs
 
 Localhost
 - Base URL: http://localhost:4004
