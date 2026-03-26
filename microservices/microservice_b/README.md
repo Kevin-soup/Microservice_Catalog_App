@@ -13,13 +13,9 @@ Used for
 ---
 
 Setup & Run
-1. Install dependencies:
-   npm install
+Install dependencies: npm install
 
-2. Start the service:
-   npm run dev   # with logging/hot reload
-
-Note: Environment variables are already provided via .env.
+Start the service: "node auth_controller.mjs"
 
 Localhost
 - Base URL: http://localhost:4000
