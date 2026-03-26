@@ -1,6 +1,6 @@
-# Merchandise Catalog Website — Portfolio Project
+# Merchandise Catalog Website 
 
-A clean, full-stack portfolio project consisting of a **Merchandise Catalog Website** (UI) and four microservices (**A, B, C, D**) behind a simple HTTP/JSON (REST) interface.
+A simple full stack project consisting of a **Merchandise Catalog Website** (UI) and four microservices (**A, B, C, D**) behind a simple HTTP/JSON (REST) interface.
 
 **Deployment-ready:** services use environment-based configuration and stateless REST endpoints and can be containerized and pushed to production with minimal changes.
 
