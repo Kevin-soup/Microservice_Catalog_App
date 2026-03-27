@@ -1,4 +1,4 @@
-# Merchandise Catalog Website 
+# Microservice Catalog App 
 
 A simple full stack project consisting of a **Merchandise Catalog Website** (UI) and four microservices (**A, B, C, D**) behind a simple HTTP/JSON (REST) interface.
 
